@@ -1,0 +1,11 @@
+.page-logo {
+  text-decoration: none;
+  color: #f44336;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+a {
+  margin: 0 10px;
+}
